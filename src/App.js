@@ -8,6 +8,7 @@ import About from '/.components/About';
 import Contact from '/.components/contact';
 import Content from '/.components/content';
 
+import Navbermenu from '.components/menu/Navbermenu';
 function App() {
   return (
 
